@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dariune\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-controllers\1.9.8\8cdc9ab6826a74594c3b0084d8a7669f8124592b\gdx-controllers-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8cdc9ab6826a74594c3b0084d8a7669f8124592b">
+        <dex dex="F:\Programavimas Eclipse\2018\GameBox2d\android\build\intermediates\pre-dexed\debug\gdx-controllers-1.9.8_b0f3023a7202cada90ae5f516d49cb35b82be96e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dariune\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-controllers-android\1.9.8\2648f2bf0caac922da2643ac57dd93b45846eff5\gdx-controllers-android-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2648f2bf0caac922da2643ac57dd93b45846eff5">
+        <dex dex="F:\Programavimas Eclipse\2018\GameBox2d\android\build\intermediates\pre-dexed\debug\gdx-controllers-android-1.9.8_a7809d7dcecfe785dedeeb00d04e7d48c889dd9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dariune\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-ai\1.8.0\ec30677d8ab1a8b8aa4b853c5f4e4b1361f50bf5\gdx-ai-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec30677d8ab1a8b8aa4b853c5f4e4b1361f50bf5">
+        <dex dex="F:\Programavimas Eclipse\2018\GameBox2d\android\build\intermediates\pre-dexed\debug\gdx-ai-1.8.0_37c3c2d3649a50d0365a3865e9c24a4af3b5b6b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programavimas Eclipse\2018\GameBox2d\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1f38600d2c24917f1caf7caf076b50e0709a211d">
+        <dex dex="F:\Programavimas Eclipse\2018\GameBox2d\android\build\intermediates\pre-dexed\debug\core-1.0_f3c98d6d017f7abf656a4d363ca785045271ffb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dariune\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.8\6f0497b7958216464101adfb7bdc3a0f7b88d6d3\gdx-box2d-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6f0497b7958216464101adfb7bdc3a0f7b88d6d3">
+        <dex dex="F:\Programavimas Eclipse\2018\GameBox2d\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.9.8_90f981dbe272c4dd0d67ccf6c485f3b9347c7ced.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dariune\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-bullet\1.9.8\7f6d7421bc365d49246b65f0528978fd0c8524ed\gdx-bullet-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7f6d7421bc365d49246b65f0528978fd0c8524ed">
+        <dex dex="F:\Programavimas Eclipse\2018\GameBox2d\android\build\intermediates\pre-dexed\debug\gdx-bullet-1.9.8_d95c25a1f11103bff4889a79c02e401e6ced4a92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dariune\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.8\84024cd60ad6f26370891fbcd17de9f0167e662\gdx-backend-android-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="084024cd60ad6f26370891fbcd17de9f0167e662">
+        <dex dex="F:\Programavimas Eclipse\2018\GameBox2d\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.8_690d8055de717e1fcfe3e41e615e8667a5961ac3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dariune\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-freetype\1.9.8\d92b5b8beab10e3b3c0dd836d4fc186f95e7ea4b\gdx-freetype-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d92b5b8beab10e3b3c0dd836d4fc186f95e7ea4b">
+        <dex dex="F:\Programavimas Eclipse\2018\GameBox2d\android\build\intermediates\pre-dexed\debug\gdx-freetype-1.9.8_3f49caec526031317fc45029fbbbb873f71031d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dariune\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.8\a35a0076fbce873f9c2d5a1a1c8066244231bb3c\gdx-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a35a0076fbce873f9c2d5a1a1c8066244231bb3c">
+        <dex dex="F:\Programavimas Eclipse\2018\GameBox2d\android\build\intermediates\pre-dexed\debug\gdx-1.9.8_80b4eaed1492f1e5978a664ac4fc9faee2537a52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dariune\.gradle\caches\modules-2\files-2.1\com.badlogicgames.ashley\ashley\1.7.0\a7c4083c0a42027a3c03ba7ccecef6cbe1c5f0a4\ashley-1.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a7c4083c0a42027a3c03ba7ccecef6cbe1c5f0a4">
+        <dex dex="F:\Programavimas Eclipse\2018\GameBox2d\android\build\intermediates\pre-dexed\debug\ashley-1.7.0_6094793107649d5d422090d097504d8a84386558.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dariune\.gradle\caches\modules-2\files-2.1\com.badlogicgames.box2dlights\box2dlights\1.4\3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd\box2dlights-1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd">
+        <dex dex="F:\Programavimas Eclipse\2018\GameBox2d\android\build\intermediates\pre-dexed\debug\box2dlights-1.4_d4e199b061659aefb3901dd8e28b9581bbaa8226.jar" />
+    </item>
+
+</items>
